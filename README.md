@@ -1,6 +1,8 @@
 # NextCheat-csgo-read-only-external-hack
 this project is undetected for now but I am not responsible for possible bans. ok man?
 
+I can't upload source code so u can download here code --> https://s7.dosya.tc/server25/yp2kxp/NextCheatSourceCode.rar.html
+
 Triggerbot: Swedz's Triggerbot (Deleted Write Memory)
 ESP: ZBase (Deleted Write Memory)
 Other: Self Code xd (Using WinAPI)
