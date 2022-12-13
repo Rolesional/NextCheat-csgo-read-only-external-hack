@@ -26,6 +26,9 @@ Features:
 -Spam Ranks On Chat [WinAPI]
 -ViewModel Changer [WinAPI]
 
+# is this virus?
+Damn! Bro this is open source so not a virus and i dont like giving virus to other peoples
+
 ScreenShots: 
 ![alt text](https://cdn.discordapp.com/attachments/1042809471015071814/1042872997540790323/Ekran_Alnts.PNG)
 
